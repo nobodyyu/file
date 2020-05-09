@@ -40,9 +40,10 @@ Tools • Dart 2.8.1
 
 ```
 1。開發者帳號
-2。置換bundle ID
+2。置換帶有推播功能設定的bundle ID
 3。選擇正確的provision profile
 4。打包上傳至app
+5。推播功能的p12需上傳至firebase後台
 ```
 
 ### Android 上架前的準備
@@ -54,3 +55,13 @@ Tools • Dart 2.8.1
 4。打包上傳至app
 ```
 
+### FireBase 的準備
+
+```
+1。準備一個web 專案，新增ios、android應用程式
+2。將GoogleService-Info.plist 取代目前xcode專案裡臨時的檔案
+3。將google-services.json 取代目前 android studio裡臨時的檔案
+4。android oreo 以上版本需要設定channel_id
+5。利用firebase console發推播不用多做設定，若是利用servere呼叫 firebase api，則需要設定伺服器金鑰
+
+```
