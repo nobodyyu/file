@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>co.binji.smartcard.beta</string>
+				<string>com.yuaki.playhub</string>
 				<key>bundle-version</key>
-				<string>1.2.4</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Binji</string>
+				<string>PlayHub</string>
 			</dict>
 		</dict>
 	</array>
