@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/nobodyyu/file/raw/master/XE.ipa</string>
+					<string>https://github.com/nobodyyu/file/raw/master/Flutter_XE_UAT.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.mayohr.skytube.uat</string>
+				<string>com.mayohr.skytube.v4.uat</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>XE</string>
+				<string>Flutter_XE_UAT</string>
 			</dict>
 		</dict>
 	</array>
